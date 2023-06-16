@@ -177,9 +177,9 @@
   }
 
   /**
-   * Testimonials slider
+   * hue slider
    */
-  new Swiper('.testimonials-slider', {
+  new Swiper('.hue-slider', {
     speed: 600,
     loop: true,
     autoplay: {
